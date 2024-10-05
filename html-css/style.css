@@ -104,3 +104,10 @@ body{
     width: 60px;
     margin-right: 10px;
 }
+
+#wrong-city{
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: left;
+    color: hsl(0, 70%, 32%);
+}
